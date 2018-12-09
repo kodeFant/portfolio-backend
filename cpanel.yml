@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/portfolio-backend
+    - export DEPLOYPATH=/home/drifters/public_html/portfolio-backend
     - /bin/cp -r /. $DEPLOYPATH
