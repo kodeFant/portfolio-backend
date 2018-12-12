@@ -41,7 +41,8 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "roots/wp-config": "1.0.0",
     "wpackagist-plugin/custom-post-type-ui": "^1.6",
-    "wpackagist-plugin/advanced-custom-fields": "^5.7"
+    "wpackagist-plugin/advanced-custom-fields": "^5.7",
+    "wpackagist-plugin/acf-to-rest-api": "^3.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
